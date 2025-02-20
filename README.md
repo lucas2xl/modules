@@ -21,7 +21,7 @@ Abaixo estão os modelos atualmente disponíveis neste repositório. Clique nos 
 - **[Configuração de Linter e Formatador (`linter-formatter.md`)]**
 
   Instruções para configurar ferramentas de linting e formatação de código (como ESLint e Prettier) para manter a consistência no seu projeto.
-  [Leia mais](./linter-formater.md)
+  [Leia mais](./linter-formatter.md)
 
 ## Como Usar
 
