@@ -8,17 +8,17 @@ O objetivo é fornecer blocos de construção modulares que você pode integrar 
 
 Abaixo estão os modelos atualmente disponíveis neste repositório. Clique nos links para acessar cada guia:
 
-- **[Configuração de Variáveis de Ambiente (`env.md`)]**
+- **Configuração de Variáveis de Ambiente (`env.md`)**
 
   Guia para configurar variáveis de ambiente com `@t3-oss/env-nextjs` e `zod`, garantindo validação e tipagem segura.
   [Leia mais](./env.md)
 
-- **[Autenticação com Better Auth e Prisma (`auth.md`)]**
+- **Autenticação com Better Auth e Prisma (`auth.md`)**
 
   Tutorial completo para implementar autenticação em Next.js usando `better-auth` com Prisma, incluindo rotas protegidas, sign-in e sign-up.
   [Leia mais](./auth.md)
 
-- **[Configuração de Linter e Formatador (`linter-formatter.md`)]**
+- **Configuração de Linter e Formatador (`linter-formatter.md`)**
 
   Instruções para configurar ferramentas de linting e formatação de código (como ESLint e Prettier) para manter a consistência no seu projeto.
   [Leia mais](./linter-formatter.md)
