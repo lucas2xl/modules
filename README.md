@@ -28,7 +28,7 @@ Abaixo estão os modelos atualmente disponíveis neste repositório. Clique nos 
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/lucas2xl/modules.git
    ```
 
 2. **Navegue até o arquivo .MD desejado para encontrar as instruções específicas.**
